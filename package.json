@@ -50,6 +50,6 @@
     "analysis"
   ],
   "dependencies": {
-    "plato": "^1.6.0"
+    "plato": "samanala-athaudahetti/plato#updated-dependancies"
   }
 }
